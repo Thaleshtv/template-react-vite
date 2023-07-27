@@ -50,6 +50,4 @@ export const GlobalStyle = createGlobalStyle`
 ::-webkit-scrollbar-track {
   background-color: #f0f0f0; 
 }
-
-
 `
